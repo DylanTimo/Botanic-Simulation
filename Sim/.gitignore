@@ -1,0 +1,25 @@
+# Cartelle di Build
+build/
+bin/
+out/
+
+# File di configurazione utente di VS Code (opzionali o specifici per la macchina)
+.vscode/launch.json
+.vscode/settings.json
+!.vscode/tasks.json
+
+# File temporanei di compilazione MSVC / CMake
+*.user
+*.suo
+*.userosv
+*.sln
+*.vcxproj*
+*.dir/
+*.log
+
+# File binari finali
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
