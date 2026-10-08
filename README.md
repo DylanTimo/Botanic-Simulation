@@ -11,7 +11,7 @@
 
 * **Candidato:** Dylan Timo 
 * **Matricola:** 948853
-* **Relatore Proposto:** Prof. Fabio Ciravegna
+* **Relatore Proposto:** 
 * **Ambito Tecnologico:** Grafica Computazionale, C++ Moderno, Artificial Intelligence, Real-Time Systems  
 
 ---
